@@ -1,3 +1,4 @@
+## What is it
 EuphoriaLikeRagdoll is a Unity MonoBehaviour that simulates a physics-driven ragdoll
 with enhanced balance, adaptive muscle tension, impact response, and an automated get-up/recovery system.
 It uses Rigidbody forces/torques and ConfigurableJoint drives to produce some cool standing, stumbling, falling, flailing, and recovery behaviors.
